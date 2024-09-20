@@ -34,4 +34,5 @@ python main.py fit \
 --trainer.logger.init_args.project="TwentyQuestions-Official" \
 --trainer.logger.init_args.name="Test-AC-critic_expectile_$critic_expectile-inv_temp_$inv_temp" \
 --trainer.strategy='ddp_find_unused_parameters_true' \
---trainer.val_check_interval=250
+--trainer.val_check_interval=250 \
+--trainer.devices=[0]
