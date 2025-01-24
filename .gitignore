@@ -1,2 +1,4 @@
 datasets/
 oracles/
+__pycache__
+lightning_logs/

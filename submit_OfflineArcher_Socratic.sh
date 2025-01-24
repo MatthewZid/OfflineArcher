@@ -12,11 +12,13 @@ critic_lr=1e-5
 critic_expectile=0.9
 inv_temp=1.0
 
-batch_size=32
+# batch_size=32
+batch_size=16
 accumulate_grad_batches=4 #8
+export TOKENIZERS_PARALLELISM=false
 
-python main.py fit \
---data=TwentyQuestions \
+python main_socratic.py fit \
+--data=Socratic \
 --data.batch_size=$batch_size \
 --data.n_traj_eval=64 \
 --model=OfflineArcher \
@@ -29,7 +31,9 @@ python main.py fit \
 --model.inv_temp=$inv_temp \
 --model.accumulate_grad_batches=$accumulate_grad_batches \
 --trainer.fast_dev_run=False \
---trainer.max_epoch=10 \
+--trainer.logger=TensorBoardLogger \
+--trainer.logger.save_dir='lightning_logs' \
+--trainer.limit_val_batches=0.0 \
+--trainer.max_epoch=20 \
 --trainer.strategy='ddp_find_unused_parameters_true' \
---trainer.val_check_interval=250 \
---trainer.devices=[0]
+--trainer.devices=[1]
