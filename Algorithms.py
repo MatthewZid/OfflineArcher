@@ -16,9 +16,14 @@ class GPT2(torch.nn.Module):
         self.model = AutoModelForCausalLM.from_pretrained("gpt2")
         if from_checkpoint is not None:
             # checkpoint = torch.load(from_checkpoint, map_location = torch.device('cpu'))
-            checkpoint = torch.load(from_checkpoint, map_location = torch.device('cuda:0'))
+            checkpoint = torch.load(from_checkpoint, map_location = torch.device('cuda'))
+            # print(checkpoint['state_dict'].keys())
+            weights = {}
+            for k, v in checkpoint["state_dict"].items():
+                if k.startswith("agent."): weights[k.removeprefix("agent.")] = v
+                elif k.startswith("actor."): weights[k.removeprefix("actor.")] = v
             # weights = {k.removeprefix("agent."): v for k, v in checkpoint["state_dict"].items() if k.startswith("agent.")}
-            weights = {k.removeprefix("actor."): v for k, v in checkpoint["state_dict"].items() if k.startswith("actor.")}
+            # weights = {k.removeprefix("actor."): v for k, v in checkpoint["state_dict"].items() if k.startswith("actor.")}
             self.load_state_dict(weights)
             print("I have initialized the actor from the checkpoint: ", from_checkpoint)
 
@@ -31,12 +36,15 @@ class GPT2(torch.nn.Module):
     
     def forward(self, observation, do_sample = True):
         # obs_ids    = self.tokenizer(observation, return_tensors='pt', padding=True, truncation=True, max_length=512).to(self.model.device)
-        obs_ids    = self.tokenizer(observation, return_tensors='pt', padding=True, truncation=True, max_length=1024).to(self.model.device)
+        obs_ids    = self.tokenizer(observation, return_tensors='pt', padding=True, truncation=True, max_length=768).to(self.model.device)
         # print(self.tokenizer.convert_tokens_to_string(self.tokenizer.convert_ids_to_tokens(obs_ids['input_ids'].tolist()[0])))
         obs_embeds = self.model.get_input_embeddings()(obs_ids["input_ids"])
+        # outputs = self.model.generate(inputs_embeds=obs_embeds, attention_mask=obs_ids['attention_mask'],\
+        #                                max_new_tokens=32, do_sample=do_sample, \
+        #                                pad_token_id = self.tokenizer.eos_token_id)
         outputs = self.model.generate(inputs_embeds=obs_embeds, attention_mask=obs_ids['attention_mask'],\
-                                       max_new_tokens=32, do_sample=do_sample, \
-                                       pad_token_id = self.tokenizer.eos_token_id)
+                                    max_new_tokens=self.tokenizer.model_max_length, do_sample=do_sample, \
+                                    pad_token_id = self.tokenizer.eos_token_id)
         action = self.tokenizer.batch_decode(outputs, skip_special_tokens  = True)
         return action
 
