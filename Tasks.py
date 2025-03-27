@@ -116,20 +116,25 @@ class Socratic(Task):
 
         # f = open('datasets/20q_train.json')
         # f = open('datasets/twenty_questions.json')
-        df = pd.read_csv('/home/vasters/titan-rl/SocraticDialogues_final_rewards_v3_shorts.csv', sep=',', skipinitialspace=True)
+        df = pd.read_csv('SocraticDialogues_final_rewards_v3_shorts.csv', sep=',', skipinitialspace=True, dtype={
+            'id': 'int64',
+            'name': 'string',
+            'category': 'string',
+            'article': 'string','cta': 'string','signal': 'string',
+            'step': 'int64','new_id': 'int64','type': 'string','reward': 'int64','line': 'string'
+        })
         df['line'] = df['line'].str.strip()
         df['line'] = df['line'].fillna('Hello!')
         dataset              = TrajectoryDataset()
-        tokenizer = AutoTokenizer.from_pretrained("meta-llama/Llama-2-7b-hf", trust_remote_code=True)
 
         for i in df['id'].unique().tolist():
             dialogue = df[df['id'] == i].reset_index(drop=True)
-            tokenized = tokenizer(dialogue['line'].to_list(), add_special_tokens=False)['input_ids']
-            tokenized = sum(tokenized, [])
-            if len(tokenized) > 1024: continue
+
+            # select dialogues from specific articles
+            # if 'Transform Your Body' not in dialogue.loc[0, 'line'] and 'Transform Your Body' not in dialogue.loc[1, 'line']: continue
 
             # history = [Interaction(chatbot='', user=dialogue.loc[0, 'line'])]
-            history = str(dialogue.loc[0, 'line']) + ' '
+            history = ' '+str(dialogue.loc[0, 'line']) + '\n'
             for j in range(1, len(dialogue), 2):
                 observation  = history
 
@@ -141,13 +146,14 @@ class Socratic(Task):
 
                 if done:
                     # interaction = Interaction(chatbot=dialogue.loc[j, 'line'], user='')
-                    interaction = dialogue.loc[j, 'line']
-                    reward = dialogue.loc[j-1, 'reward']    # temporary final reward: get the last user reward
+                    interaction = dialogue.loc[j, 'line'] + ' '
+                    # reward = dialogue.loc[j-1, 'reward']    # temporary final reward: get the last user reward
+                    reward = 0
                 else:
                     # interaction = Interaction(chatbot=dialogue.loc[j, 'line'], user=dialogue.loc[j+1, 'line'])
                     interaction = dialogue.loc[j, 'line'] + ' ' + dialogue.loc[j+1, 'line']
                     reward = dialogue.loc[j+1, 'reward']
-                
+                    if reward == 1: reward = 0
                 
                 history += interaction + '\n'
                 # history.append(interaction)
