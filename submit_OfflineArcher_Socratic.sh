@@ -13,7 +13,7 @@ critic_expectile=0.9
 inv_temp=1.0
 
 # batch_size=32
-batch_size=16
+batch_size=4
 accumulate_grad_batches=4 #8
 export TOKENIZERS_PARALLELISM=false
 
@@ -34,6 +34,6 @@ python main_socratic.py fit \
 --trainer.logger=TensorBoardLogger \
 --trainer.logger.save_dir='lightning_logs' \
 --trainer.limit_val_batches=0.0 \
---trainer.max_epoch=20 \
+--trainer.max_epoch=13 \
 --trainer.strategy='ddp_find_unused_parameters_true' \
 --trainer.devices=[1]
