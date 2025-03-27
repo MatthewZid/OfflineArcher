@@ -7,6 +7,7 @@ import torch
 from transformers import BartTokenizer, BartForConditionalGeneration
 from transformers import T5Tokenizer, T5ForConditionalGeneration
 import concurrent.futures
+import pandas as pd
 
 PROMPT_TEMPLATE = 'You are playing a game called twenty questions with me. The rule of twenty question is that you are given a hidden word, and I am guessing what the word is within twenty questions. For every question, if it is an invalid question, you should answer "Invalid Question.". For any valid question, you should answer either "Yes." or "No.". Now the hidden word given to you is "{word}", and the question for the current round is "{question}". Your response is:'
 DEFAULT_OBJECT_DICT = {
@@ -80,7 +81,7 @@ class SocraticDialogueEnv():
 
         # the dialogue is done when a keyword (e.g 'finished') is in the answer (?)
         # done = (answer.replace('.', '').lower() == 'yes') and self.is_correct(question)
-        self.done = 'finished' in chatbot_action or '/stop' in user_utterance
+        self.done = 'finished' in chatbot_action or '/stop' in user_utterance or 'TITAN' in chatbot_action
         reward = -1
         if self.done:
             reward = 0
@@ -94,13 +95,17 @@ class SocraticDialogueEnv():
     #     return self.tokenizer.batch_decode(self.model.generate(input_ids=encoder_ids['input_ids'], attention_mask=encoder_ids['attention_mask'],\
     #                                                             max_new_tokens=16), skip_special_tokens= True)
 
-    def step(self, chatbot_action):
+    def step(self, chatbot_action, df=None, current_idx=0):
         if self.done:
             return None
         # assert self.curr_word is not None, "call env.reset() first."
         # answer = self.generate_answer(chatbot_action)
         print(f'>> {chatbot_action[0]}')
-        user_utterance = input('>> ')
+        if not isinstance(df, pd.core.series.Series): user_utterance = input('>> ')
+        else:
+            if current_idx >= len(df): user_utterance = 'finished'
+            else: user_utterance = df.iloc[current_idx]
+            print(f'>> {user_utterance}')
         return self._step(chatbot_action[0], user_utterance)
         
         # return trajectory.text_history, trajectory.reward[-2], trajectory.done
