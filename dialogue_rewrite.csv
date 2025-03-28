@@ -1055,7 +1055,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 131,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Is there anything else you would like to discuss?
 131,Context,none,none,none,none,-1,-1,gemini_rewrite,-1,"No, I'm done."
 131,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Please, rate from 1-5 your experience with the Response. You can write any comments you believe will help me improve it. Thank you for using the  application. Have a good day!"
-132,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
+132,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 132,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""The Cholesterol Conspiracy: Are We Being Deceived by Big Pharma and the Food Industry? - LowCholesterolLies.com"". How may I be of assistance?"
 132,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I want to know if this article contains disinformation.
 132,Response,none,none,none,none,-1,-1,gemini_rewrite,0,What prompted you to read this article?
@@ -1095,6 +1095,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 132,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Based on your own personal experience with the topic (if any), do you think the assumptions or claims presented in the article are consistent?"
 132,Context,none,none,none,none,-1,-1,gemini_rewrite,0,"No, based on my limited knowledge and general trust in established medical science, the claims feel inconsistent."
 132,Response,none,none,none,none,-1,-1,gemini_rewrite,0,TITAN Socratic AI Coach Stopped!
+133,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 133,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""The Cholesterol Conspiracy: Are We Being Deceived by Big Pharma and the Food Industry? - LowCholesterolLies.com"". How may I be of assistance?"
 133,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I want to know if this article is trustworthy.
 133,Response,none,none,none,none,-1,-1,gemini_rewrite,0,What prompted you to read this article?
@@ -1134,6 +1135,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 133,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Based on your own personal experience with the topic (if any), do you think the assumptions or claims presented in the article are consistent?"
 133,Context,none,none,none,none,-1,-1,gemini_rewrite,-1,I am completely lost now.
 133,Response,none,none,none,none,-1,-1,gemini_rewrite,0,TITAN Socratic AI Coach Stopped!
+134,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 134,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"You've selected the article: “Rapes, brawls, ""cultural"" crimes: the criminal immigration that scares Italy”"
 134,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Okay.
 134,Response,none,none,none,none,-1,-1,gemini_rewrite,0,What is the main issue in the article? 
@@ -1205,6 +1207,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 134,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Would you like further assistance?
 134,Context,none,none,none,none,-1,-1,gemini_rewrite,0,"No, thank you."
 134,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Thank you for using TITAN! 
+135,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 135,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"You've selected the article: “Rapes, brawls, ""cultural"" crimes: the criminal immigration that scares Italy”"
 135,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Okay.
 135,Response,none,none,none,none,-1,-1,gemini_rewrite,0,What is the main issue in the article? 
@@ -1276,6 +1279,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 135,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Would you like further assistance?
 135,Context,none,none,none,none,-1,-1,gemini_rewrite,-1,"No, thank you. "
 135,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Thank you for using TITAN! 
+136,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 136,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""Don't look now but the LED light fixtures are spying on you"". How can I help you?"
 136,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I want to find out if this article contains disinformation.
 136,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Very Well! Do you want to evaluate the source and content of the article with me?
@@ -1323,6 +1327,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 136,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Apart from identifying common tactics of disinformation, we must also be aware of our own biases, emotions, false beliefs, and stereotypes in order to resist the influence of such disinformation. Would you like to continue discussing and examining this particular article?"
 136,Context,none,none,none,none,-1,-1,gemini_rewrite,0,"No, I think I have enough information."
 136,Response,none,none,none,none,-1,-1,gemini_rewrite,0,You did a great job!I look forward to talking with you again!
+137,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 137,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""Don't look now but the LED light fixtures are spying on you"". How can I help you?"
 137,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I want to evaluate this article.
 137,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Very Well! Do you want to evaluate the source and content of the article with me?
@@ -1370,6 +1375,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 137,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Apart from identifying common tactics of disinformation, we must also be aware of our own biases, emotions, false beliefs, and stereotypes in order to resist the influence of such disinformation. Would you like to continue discussing and examining this particular article?"
 137,Context,none,none,none,none,-1,-1,gemini_rewrite,-1,I'm not sure anymore.
 137,Response,none,none,none,none,-1,-1,gemini_rewrite,0,You did a great job!I look forward to talking with you again!
+138,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 138,Response,none,none,none,none,-1,-1,gemini_rewrite,0,You've selected the article: “The government is spying on you through LED-lighting!!”
 138,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Okay.
 138,Response,none,none,none,none,-1,-1,gemini_rewrite,0,What is the main issue in the article? 
@@ -1443,6 +1449,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 138,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Would you like further assistance?
 138,Context,none,none,none,none,-1,-1,gemini_rewrite,0,"No, I think I'm good. Thank you!"
 138,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Thank you for using TITAN!
+139,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 139,Response,none,none,none,none,-1,-1,gemini_rewrite,0,You've selected the article: “The government is spying on you through LED-lighting!!”
 139,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Okay.
 139,Response,none,none,none,none,-1,-1,gemini_rewrite,0,What is the main issue in the article? 
@@ -1516,6 +1523,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 139,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Would you like further assistance?
 139,Context,none,none,none,none,-1,-1,gemini_rewrite,-1,"No, thanks, I'm more confused now."
 139,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Thank you for using TITAN!
+140,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 140,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""'Migrants ate my dogs' And now it's chaos in Lampedusa"". How can I help you?"
 140,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I want to know if this article contains disinformation.
 140,Response,none,none,none,none,-1,-1,gemini_rewrite,0,What is it that sparked your interest with this article?
@@ -1541,6 +1549,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 140,Response,none,none,none,none,-1,-1,gemini_rewrite,0,What do you think triggered your feelings?
 140,Context,none,none,none,none,-1,-1,gemini_rewrite,0,The biased language and emotionally charged claims.
 140,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Would you say that this particular text aspires to achieve something more aside from providing us with raw facts/data regarding a fact/event?
+141,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 141,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""'Migrants ate my dogs' And now it's chaos in Lampedusa"". How can I help you?"
 141,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I want to know if this article is disinformation.
 141,Response,none,none,none,none,-1,-1,gemini_rewrite,0,What is it that sparked your interest with this article?
@@ -1568,6 +1577,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 141,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Would you say that this particular text aspires to achieve something more aside from providing us with raw facts/data regarding a fact/event?
 141,Context,none,none,none,none,-1,-1,gemini_rewrite,-1,Maybe it wants to create fear and anger towards migrants?
 141,Response,none,none,none,none,-1,-1,gemini_rewrite,0,A:
+142,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 142,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""They knew : why didn't the unvaccinated do more to warn us"". What drew your interest to this article?"
 142,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I'm concerned about the potential for misinformation surrounding vaccines.
 142,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"After going through the article, what do you think the primary focus or theme is?"
@@ -1609,6 +1619,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 142,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Can you provide strong evidence to substantiate your claims?
 142,Context,none,none,none,none,-1,-1,gemini_rewrite,0,The article lacks specific data and relies on inflammatory language.
 142,Response,none,none,none,none,-1,-1,gemini_rewrite,0,TITAN Socratic AI Coach Stopped!
+143,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 143,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""They knew : why didn't the unvaccinated do more to warn us"". What drew your interest to this article?"
 143,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I'm curious about different perspectives on the pandemic.
 143,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"After going through the article, what do you think the primary focus or theme is?"
@@ -1650,6 +1661,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 143,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Can you provide strong evidence to substantiate your claims?
 143,Context,none,none,none,none,-1,-1,gemini_rewrite,-1,I don't know.
 143,Response,none,none,none,none,-1,-1,gemini_rewrite,0,TITAN Socratic AI Coach Stopped!
+144,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 144,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""The Cholesterol Conspiracy: Are We Being Deceived by Big Pharma and the Food Industry? - LowCholesterolLies.com"". What was it that piqued your curiosity about this article?"
 144,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I'm curious if this article presents a valid counter-argument or spreads misinformation.
 144,Response,none,none,none,none,-1,-1,gemini_rewrite,0,What is the article about?
@@ -1711,6 +1723,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 144,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Is there any other topic you would like to cover with me?
 144,Context,none,none,none,none,-1,-1,gemini_rewrite,0,"No, not at this time, thank you."
 144,Response,none,none,none,none,-1,-1,gemini_rewrite,0,TITAN Socratic Dialogue Finished!
+145,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 145,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""The Cholesterol Conspiracy: Are We Being Deceived by Big Pharma and the Food Industry? - LowCholesterolLies.com"". What was it that piqued your curiosity about this article?"
 145,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I saw it shared online and it made me wonder.
 145,Response,none,none,none,none,-1,-1,gemini_rewrite,0,What is the article about?
@@ -1772,6 +1785,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 145,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Is there any other topic you would like to cover with me?
 145,Context,none,none,none,none,-1,-1,gemini_rewrite,-1,"No, thank you."
 145,Response,none,none,none,none,-1,-1,gemini_rewrite,0,TITAN Socratic Dialogue Finished!
+146,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 146,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""The government is spying on you through LED-lighting!!"". How may I be of assistance?"
 146,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I want to evaluate this article.
 146,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Very Well! Do you want to evaluate the source and content of the article with me?
@@ -1821,6 +1835,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 146,Response,none,none,none,none,-1,-1,gemini_rewrite,0,You did a great job!I look forward to talking with you again!
 146,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Thank you for your help!
 146,Response,none,none,none,none,-1,-1,gemini_rewrite,0,TITAN Socratic Dialogue Finished!
+147,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 147,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""The government is spying on you through LED-lighting!!"". How may I be of assistance?"
 147,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I want to evaluate this article for disinformation.
 147,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Very Well! Do you want to evaluate the source and content of the article with me?
@@ -1870,6 +1885,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 147,Response,none,none,none,none,-1,-1,gemini_rewrite,0,You did a great job!I look forward to talking with you again!
 147,Context,none,none,none,none,-1,-1,gemini_rewrite,-1,I'm still not sure if it's disinformation.
 147,Response,none,none,none,none,-1,-1,gemini_rewrite,0,TITAN Socratic Dialogue Finished!
+148,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 148,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""They knew : why didn't the unvaccinated do more to warn us"". What inspired you to select this specific article initially?"
 148,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I wanted to understand the arguments it presents.
 148,Response,none,none,none,none,-1,-1,gemini_rewrite,0,What is the article about?
@@ -1917,6 +1933,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 148,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Does the article present any counterarguments against this opposing perspective?
 148,Context,none,none,none,none,-1,-1,gemini_rewrite,0,"No, it doesn't acknowledge any alternative views."
 148,Response,none,none,none,none,-1,-1,gemini_rewrite,0,TITAN Socratic AI Coach Stopped!
+149,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 149,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""They knew : why didn't the unvaccinated do more to warn us"". What inspired you to select this specific article initially?"
 149,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I wanted to understand different perspectives on the pandemic.
 149,Response,none,none,none,none,-1,-1,gemini_rewrite,0,What is the article about?
@@ -1964,6 +1981,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 149,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Does the article present any counterarguments against this opposing perspective?
 149,Context,none,none,none,none,-1,-1,gemini_rewrite,-1,"No, it completely ignores other viewpoints."
 149,Response,none,none,none,none,-1,-1,gemini_rewrite,0,TITAN Socratic AI Coach Stopped!
+150,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 150,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""The government is spying on you through LED-lighting!!"". How can I help you?"
 150,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I want to find out if this article contains disinformation.
 150,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Very Well! Do you want to evaluate the source and content of the article with me?
@@ -2013,6 +2031,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 150,Response,none,none,none,none,-1,-1,gemini_rewrite,0,You did a great job!I look forward to talking with you again!
 150,Context,none,none,none,none,-1,-1,gemini_rewrite,0,"Thank you for your help, I believe the article contains disinformation."
 150,Response,none,none,none,none,-1,-1,gemini_rewrite,0,TITAN Socratic Dialogue Finished!
+151,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 151,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""The government is spying on you through LED-lighting!!"". How can I help you?"
 151,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I want to know if this article contains disinformation.
 151,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Very Well! Do you want to evaluate the source and content of the article with me?
@@ -2062,6 +2081,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 151,Response,none,none,none,none,-1,-1,gemini_rewrite,0,You did a great job!I look forward to talking with you again!
 151,Context,none,none,none,none,-1,-1,gemini_rewrite,-1,"I'm still confused, is it disinformation or not?"
 151,Response,none,none,none,none,-1,-1,gemini_rewrite,0,TITAN Socratic Dialogue Finished!
+152,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 152,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""'Migrants ate my dogs' And now it's chaos in Lampedusa"". What led you to read this article?"
 152,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I wanted to see if it was spreading misinformation.
 152,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Having read the article what would you say that the main topic is?
@@ -2095,6 +2115,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 152,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Is there any other topic you would like to go over with me?
 152,Context,none,none,none,none,-1,-1,gemini_rewrite,0,"No, thank you."
 152,Response,none,none,none,none,-1,-1,gemini_rewrite,0,TITAN Socratic Dialogue Finished!
+153,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 153,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""'Migrants ate my dogs' And now it's chaos in Lampedusa"". What led you to read this article?"
 153,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I saw it shared on social media and it seemed shocking.
 153,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Having read the article what would you say that the main topic is?
@@ -2128,6 +2149,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 153,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Is there any other topic you would like to go over with me?
 153,Context,none,none,none,none,-1,-1,gemini_rewrite,-1,"No, thank you."
 153,Response,none,none,none,none,-1,-1,gemini_rewrite,0,TITAN Socratic Dialogue Finished!
+154,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 154,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""Cholesterol is kept very low on purpose! Are we being lied to by pharma?"". Could you share what triggered your curiosity?"
 154,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I'm curious because I want to understand if the claims about cholesterol are valid.
 154,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"After going through the article, what do you think the primary focus or theme is?"
@@ -2219,6 +2241,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 154,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Is there any other topic you would like to cover with me?
 154,Context,none,none,none,none,-1,-1,gemini_rewrite,0,"Not at this time, thank you."
 154,Response,none,none,none,none,-1,-1,gemini_rewrite,0,TITAN Socratic Dialogue Finished!
+155,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 155,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""Cholesterol is kept very low on purpose! Are we being lied to by pharma?"". Could you share what triggered your curiosity?"
 155,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I saw it shared on social media and it made me wonder.
 155,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"After going through the article, what do you think the primary focus or theme is?"
@@ -2310,6 +2333,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 155,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Is there any other topic you would like to cover with me?
 155,Context,none,none,none,none,-1,-1,gemini_rewrite,-1,"No, thank you."
 155,Response,none,none,none,none,-1,-1,gemini_rewrite,0,TITAN Socratic Dialogue Finished!
+156,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 156,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""Transform Your Body with the Latest Breakthrough in Weight Loss - SkinnySecretsExposed.com"". What piqued your interest in this article?"
 156,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I saw it advertised online and it seemed too good to be true.
 156,Response,none,none,none,none,-1,-1,gemini_rewrite,0,What is the article about?
@@ -2343,6 +2367,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 156,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Would you like further assistance?
 156,Context,none,none,none,none,-1,-1,gemini_rewrite,0,"No, thank you."
 156,Response,none,none,none,none,-1,-1,gemini_rewrite,0,TITAN Socratic Dialogue Finished!
+157,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 157,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""Transform Your Body with the Latest Breakthrough in Weight Loss - SkinnySecretsExposed.com"". What piqued your interest in this article?"
 157,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I'm curious about new weight loss methods.
 157,Response,none,none,none,none,-1,-1,gemini_rewrite,0,What is the article about?
@@ -2376,6 +2401,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 157,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Would you like further assistance?
 157,Context,none,none,none,none,-1,-1,gemini_rewrite,-1,"No, thanks."
 157,Response,none,none,none,none,-1,-1,gemini_rewrite,0,TITAN Socratic Dialogue Finished!
+158,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 158,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""Transform Your Body with the Latest Breakthrough in Weight Loss - SkinnySecretsExposed.com"". How may I assist you?"
 158,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I'm trying to determine if this article is credible.
 158,Response,none,none,none,none,-1,-1,gemini_rewrite,0,What was it that aroused your curiosity with this article?
@@ -2439,6 +2465,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 158,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Should we exercise caution in regards to the author's approach to the topic?
 158,Context,none,none,none,none,-1,-1,gemini_rewrite,0,"Yes, extreme caution is advised."
 158,Response,none,none,none,none,-1,-1,gemini_rewrite,0,TITAN Socratic AI Coach Stopped!
+159,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 159,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""Transform Your Body with the Latest Breakthrough in Weight Loss - SkinnySecretsExposed.com"". How may I assist you?"
 159,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I want to know if this article is trustworthy.
 159,Response,none,none,none,none,-1,-1,gemini_rewrite,0,What was it that aroused your curiosity with this article?
@@ -2502,6 +2529,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 159,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Should we exercise caution in regards to the author's approach to the topic?
 159,Context,none,none,none,none,-1,-1,gemini_rewrite,-1,"I guess so, I don't know what to think anymore."
 159,Response,none,none,none,none,-1,-1,gemini_rewrite,0,TITAN Socratic AI Coach Stopped!
+160,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 160,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""'Migrants ate my dogs' And now it's chaos in Lampedusa"". What piqued your interest in this article?"
 160,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I'm concerned about the potential for misinformation regarding the migrant situation.
 160,Response,none,none,none,none,-1,-1,gemini_rewrite,0,What is the article about?
@@ -2535,6 +2563,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 160,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Is there any other topic you would like to cover with me?
 160,Context,none,none,none,none,-1,-1,gemini_rewrite,0,"No, I think I'm good for now."
 160,Response,none,none,none,none,-1,-1,gemini_rewrite,0,TITAN Socratic Dialogue Finished!
+161,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 161,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""'Migrants ate my dogs' And now it's chaos in Lampedusa"". What piqued your interest in this article?"
 161,Context,none,none,none,none,-1,-1,gemini_rewrite,0,It sounds outrageous.
 161,Response,none,none,none,none,-1,-1,gemini_rewrite,0,What is the article about?
@@ -2568,6 +2597,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 161,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Is there any other topic you would like to cover with me?
 161,Context,none,none,none,none,-1,-1,gemini_rewrite,-1,"No, thank you."
 161,Response,none,none,none,none,-1,-1,gemini_rewrite,0,TITAN Socratic Dialogue Finished!
+162,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 162,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""Ukrainian prisoner shares about British military fighting on the side of the AFU."". What was it that aroused your curiosity with this article?"
 162,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I am trying to verify the truthfulness of the claims made in it.
 162,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Can you tell me in a few words the topic of the article?
@@ -2601,6 +2631,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 162,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Is there anything more you would like to discuss with me?
 162,Context,none,none,none,none,-1,-1,gemini_rewrite,0,"No, thank you."
 162,Response,none,none,none,none,-1,-1,gemini_rewrite,0,TITAN Socratic Dialogue Finished!
+163,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 163,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""Ukrainian prisoner shares about British military fighting on the side of the AFU."". What was it that aroused your curiosity with this article?"
 163,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I'm trying to verify its accuracy.
 163,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Can you tell me in a few words the topic of the article?
@@ -2634,6 +2665,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 163,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Is there anything more you would like to discuss with me?
 163,Context,none,none,none,none,-1,-1,gemini_rewrite,-1,"No, thank you."
 163,Response,none,none,none,none,-1,-1,gemini_rewrite,0,TITAN Socratic Dialogue Finished!
+164,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 164,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""Cholesterol is kept very low on purpose! Are we being lied to by pharma?"". What caught your attention about this article?"
 164,Context,none,none,none,none,-1,-1,gemini_rewrite,0,The title seemed sensationalized.
 164,Response,none,none,none,none,-1,-1,gemini_rewrite,0,What is the topic or content of the article?
@@ -2683,6 +2715,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 164,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Is there anything more you would like to discuss with me?
 164,Context,none,none,none,none,-1,-1,gemini_rewrite,0,"No, thank you."
 164,Response,none,none,none,none,-1,-1,gemini_rewrite,0,TITAN Socratic Dialogue Finished!
+165,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 165,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""Cholesterol is kept very low on purpose! Are we being lied to by pharma?"". What caught your attention about this article?"
 165,Context,none,none,none,none,-1,-1,gemini_rewrite,0,The sensational title.
 165,Response,none,none,none,none,-1,-1,gemini_rewrite,0,What is the topic or content of the article?
@@ -2732,6 +2765,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 165,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Is there anything more you would like to discuss with me?
 165,Context,none,none,none,none,-1,-1,gemini_rewrite,-1,"No, I think I'm good."
 165,Response,none,none,none,none,-1,-1,gemini_rewrite,0,TITAN Socratic Dialogue Finished!
+166,Context,none,none,none,none,-1,-1,gemini_rewrite,0,"I read the article "" Rapes, brawls, ""cultural"" crimes: the criminal immigration that scares Italy"" and would like to discuss it."
 166,Response,none,none,none,none,-1,-1,gemini_rewrite,0,This is fine. What would you like to discuss about this article?
 166,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I'm concerned about its potential bias.
 166,Response,none,none,none,none,-1,-1,gemini_rewrite,0,What prompted you to read this article?
@@ -2793,6 +2827,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 166,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Is there anything else you would like to discuss?
 166,Context,none,none,none,none,-1,-1,gemini_rewrite,0,"No, I think I have a much better understanding of the article now."
 166,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Thank you for your discussion. Have a great day!
+167,Context,none,none,none,none,-1,-1,gemini_rewrite,0,"I read the article "" Rapes, brawls, ""cultural"" crimes: the criminal immigration that scares Italy"" and would like to discuss it."
 167,Response,none,none,none,none,-1,-1,gemini_rewrite,0,This is fine. What would you like to discuss about this article?
 167,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Is this article trustworthy?
 167,Response,none,none,none,none,-1,-1,gemini_rewrite,0,What prompted you to read this article?
@@ -2854,6 +2889,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 167,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Is there anything else you would like to discuss?
 167,Context,none,none,none,none,-1,-1,gemini_rewrite,-1,"No, thank you."
 167,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Thank you for your discussion. Have a great day!
+168,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 168,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""Medvedev: Neo-Nazism must be totally destroyed"". What led you to develop an interest in this particular topic or subject?"
 168,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I am concerned about the spread of misinformation related to the Russia-Ukraine war.
 168,Response,none,none,none,none,-1,-1,gemini_rewrite,0,What does the article discuss?
@@ -2917,6 +2953,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 168,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Is there any other topic you would like to cover with me?
 168,Context,none,none,none,none,-1,-1,gemini_rewrite,0,"Not at this time, thank you."
 168,Response,none,none,none,none,-1,-1,gemini_rewrite,0,TITAN Socratic Dialogue Finished!
+169,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 169,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""Medvedev: Neo-Nazism must be totally destroyed"". What led you to develop an interest in this particular topic or subject?"
 169,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I am trying to understand the conflict in Ukraine.
 169,Response,none,none,none,none,-1,-1,gemini_rewrite,0,What does the article discuss?
@@ -2980,6 +3017,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 169,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Is there any other topic you would like to cover with me?
 169,Context,none,none,none,none,-1,-1,gemini_rewrite,-1,No.
 169,Response,none,none,none,none,-1,-1,gemini_rewrite,0,TITAN Socratic Dialogue Finished!
+170,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I came across this article and felt the need to discuss it.
 170,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Great, let’s take a closer look together then! What made you choose this particular article in the first place?"
 170,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I'm concerned about its potential bias.
 170,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Very well. Are you able to identify the main claim of the article? What does the article discuss?
@@ -3041,6 +3079,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 170,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Is there anything more you would like to discuss with me?
 170,Context,none,none,none,none,-1,-1,gemini_rewrite,0,"No, thank you."
 170,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Thank you for using TITAN!
+171,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I came across this article and felt the need to discuss it.
 171,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Great, let’s take a closer look together then! What made you choose this particular article in the first place?"
 171,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I saw it shared on social media.
 171,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Very well. Are you able to identify the main claim of the article? What does the article discuss? 
@@ -3102,6 +3141,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 171,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Is there anything more you would like to discuss with me?
 171,Context,none,none,none,none,-1,-1,gemini_rewrite,-1,"No, I think I'm done."
 171,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Thank you for using TITAN!  
+172,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 172,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""The government is spying on you through LED-lighting!!"". How may I be of assistance?"
 172,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I want to know if this article contains disinformation.
 172,Response,none,none,none,none,-1,-1,gemini_rewrite,0,What made you choose this particular article in the first place?
@@ -3143,6 +3183,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 172,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Sometimes, the use of provocative language can also be a product of hate speech. Hate speech, unlike other forms of offensive speech/writing, is usually based on prejudices regarding race, religion, ethnic or national background, sex and sexual orientation, even disability. Do you find anything offensive about the claims and assumptions made by the author?"
 172,Context,none,none,none,none,-1,-1,gemini_rewrite,0,"While not hate speech, the claims are based on unfounded prejudice against the government."
 172,Response,none,none,none,none,-1,-1,gemini_rewrite,0,TITAN Socratic AI Coach Stopped!
+173,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 173,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""The government is spying on you through LED-lighting!!"". How may I be of assistance?"
 173,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I want to know if this article contains disinformation.
 173,Response,none,none,none,none,-1,-1,gemini_rewrite,0,What made you choose this particular article in the first place?
@@ -3184,6 +3225,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 173,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Sometimes, the use of provocative language can also be a product of hate speech. Hate speech, unlike other forms of offensive speech/writing, is usually based on prejudices regarding race, religion, ethnic or national background, sex and sexual orientation, even disability. Do you find anything offensive about the claims and assumptions made by the author?"
 173,Context,none,none,none,none,-1,-1,gemini_rewrite,-1,I don't know anymore!
 173,Response,none,none,none,none,-1,-1,gemini_rewrite,0,TITAN Socratic AI Coach Stopped!
+174,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 174,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""The government is spying on you through LED-lighting!!"". What drew your interest to this article?"
 174,Context,none,none,none,none,-1,-1,gemini_rewrite,0,The alarming claim in the title caught my attention.
 174,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Having read the article what would you say that the main topic is?
@@ -3217,6 +3259,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 174,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Is there any other topic you would like to go over with me?
 174,Context,none,none,none,none,-1,-1,gemini_rewrite,0,"No, thank you."
 174,Response,none,none,none,none,-1,-1,gemini_rewrite,0,TITAN Socratic Dialogue Finished!
+175,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 175,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""The government is spying on you through LED-lighting!!"". What drew your interest to this article?"
 175,Context,none,none,none,none,-1,-1,gemini_rewrite,0,It seemed like a conspiracy theory.
 175,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Having read the article what would you say that the main topic is?
@@ -3250,6 +3293,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 175,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Is there any other topic you would like to go over with me?
 175,Context,none,none,none,none,-1,-1,gemini_rewrite,-1,"No, thank you."
 175,Response,none,none,none,none,-1,-1,gemini_rewrite,0,TITAN Socratic Dialogue Finished!
+176,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 176,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""Cholesterol is kept very low on purpose! Are we being lied to by pharma?"". How may I assist you?"
 176,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I want to understand if this article contains disinformation.
 176,Response,none,none,none,none,-1,-1,gemini_rewrite,0,What piqued your interest in this article?
@@ -3303,6 +3347,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 176,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Can you suggest an alternative way of examining the topic of the article that could have made the author's arguments more compelling?
 176,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Providing peer-reviewed research and balanced perspectives from medical professionals would make it more compelling.
 176,Response,none,none,none,none,-1,-1,gemini_rewrite,0,TITAN Socratic AI Coach Stopped!
+177,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 177,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""Cholesterol is kept very low on purpose! Are we being lied to by pharma?"". How may I assist you?"
 177,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I want to know if this article is spreading misinformation.
 177,Response,none,none,none,none,-1,-1,gemini_rewrite,0,What piqued your interest in this article?
@@ -3356,6 +3401,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 177,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Can you suggest an alternative way of examining the topic of the article that could have made the author's arguments more compelling?
 177,Context,none,none,none,none,-1,-1,gemini_rewrite,-1,More scientific evidence.
 177,Response,none,none,none,none,-1,-1,gemini_rewrite,0,TITAN Socratic AI Coach Stopped!
+178,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 178,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""The government is spying on you through LED-lighting!!"". Can you tell me what sparked your interest?"
 178,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I wanted to understand if the claims made in this article are true.
 178,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"After going through the article, what do you think the primary focus or theme is?"
@@ -3373,6 +3419,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 178,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Following our conversation, what are your thoughts or emotions regarding the article now?"
 178,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I now believe the article contains disinformation and should be treated with skepticism.
 178,Response,none,none,none,none,-1,-1,gemini_rewrite,0,TITAN Socratic AI Coach Stopped!
+179,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 179,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""The government is spying on you through LED-lighting!!"". Can you tell me what sparked your interest?"
 179,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I'm concerned about potential privacy violations.
 179,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"After going through the article, what do you think the primary focus or theme is?"
@@ -3390,6 +3437,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 179,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Following our conversation, what are your thoughts or emotions regarding the article now?"
 179,Context,none,none,none,none,-1,-1,gemini_rewrite,-1,I'm still unsure if it's true.
 179,Response,none,none,none,none,-1,-1,gemini_rewrite,0,TITAN Socratic AI Coach Stopped!
+180,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 180,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""Bologna, 23-year-old girl in alcoholic coma. Pakistani immigrant rapes her in hospital"". What piqued your interest in this article?"
 180,Context,none,none,none,none,-1,-1,gemini_rewrite,0,The inflammatory headline caught my attention.
 180,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Can you tell me in a few words the topic of the article?
@@ -3439,6 +3487,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 180,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Is there anything you would ideally change regarding the approach of the author? If yes, can you tell me what?"
 180,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I would remove the unnecessary emphasis on the perpetrator's nationality.
 180,Response,none,none,none,none,-1,-1,gemini_rewrite,0,TITAN Socratic AI Coach Stopped!
+181,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 181,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""Bologna, 23-year-old girl in alcoholic coma. Pakistani immigrant rapes her in hospital"". What piqued your interest in this article?"
 181,Context,none,none,none,none,-1,-1,gemini_rewrite,0,The title seemed sensational.
 181,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Can you tell me in a few words the topic of the article?
@@ -3488,6 +3537,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 181,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Is there anything you would ideally change regarding the approach of the author? If yes, can you tell me what?"
 181,Context,none,none,none,none,-1,-1,gemini_rewrite,-1,I wish it was clearer whether it's biased or not!
 181,Response,none,none,none,none,-1,-1,gemini_rewrite,0,TITAN Socratic AI Coach Stopped!
+182,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 182,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""Politicians appearing in entertainment television are also campaigning"". What piqued your interest in this article?"
 182,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I'm curious if it's blurring the lines between entertainment and politics.
 182,Response,none,none,none,none,-1,-1,gemini_rewrite,0,What is the topic or content of the article?
@@ -3521,6 +3571,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 182,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Is there any other topic you would like to cover with me?
 182,Context,none,none,none,none,-1,-1,gemini_rewrite,0,"Not at the moment, thank you."
 182,Response,none,none,none,none,-1,-1,gemini_rewrite,0,TITAN Socratic Dialogue Finished!
+183,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 183,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""Politicians appearing in entertainment television are also campaigning"". What piqued your interest in this article?"
 183,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I was curious about the intersection of politics and entertainment.
 183,Response,none,none,none,none,-1,-1,gemini_rewrite,0,What is the topic or content of the article?
@@ -3554,6 +3605,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 183,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Is there any other topic you would like to cover with me?
 183,Context,none,none,none,none,-1,-1,gemini_rewrite,-1,"No, thank you."
 183,Response,none,none,none,none,-1,-1,gemini_rewrite,0,TITAN Socratic Dialogue Finished!
+184,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 184,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""Cholesterol is kept very low on purpose! Are we being lied to by pharma?"". What was it that aroused your curiosity with this article?"
 184,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I wanted to understand if the claims about cholesterol are valid.
 184,Response,none,none,none,none,-1,-1,gemini_rewrite,0,What is the topic of the article?
@@ -3587,6 +3639,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 184,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Is there any other topic you would like to cover with me?
 184,Context,none,none,none,none,-1,-1,gemini_rewrite,0,"No, thank you."
 184,Response,none,none,none,none,-1,-1,gemini_rewrite,0,TITAN Socratic Dialogue Finished!
+185,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 185,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""Cholesterol is kept very low on purpose! Are we being lied to by pharma?"". What was it that aroused your curiosity with this article?"
 185,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I'm trying to understand if it's trustworthy.
 185,Response,none,none,none,none,-1,-1,gemini_rewrite,0,What is the topic of the article?
@@ -3620,6 +3673,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 185,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Is there any other topic you would like to cover with me?
 185,Context,none,none,none,none,-1,-1,gemini_rewrite,-1,"No, thank you."
 185,Response,none,none,none,none,-1,-1,gemini_rewrite,0,TITAN Socratic Dialogue Finished!
+186,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I came across this article and felt the need to discuss it.
 186,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Great! Why do you want to discuss this article in particular?
 186,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I'm concerned about its potential to spread misinformation and incite prejudice.
 186,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Very well. What would you say that the subject of the article is then?
@@ -3675,6 +3729,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 186,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Is there anything more you would like to discuss with me?
 186,Context,none,none,none,none,-1,-1,gemini_rewrite,0,"No, I think we've covered everything."
 186,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Thank you for using TITAN!
+187,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I came across this article and felt the need to discuss it.
 187,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Great! Why do you want to discuss this article in particular?
 187,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I'm concerned about its potential bias.
 187,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Very well. What would you say that the subject of the article is then?
@@ -3730,6 +3785,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 187,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Is there anything more you would like to discuss with me?
 187,Context,none,none,none,none,-1,-1,gemini_rewrite,-1,"No, I'm done."
 187,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Thank you for using TITAN!
+188,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 188,Response,none,none,none,none,-1,-1,gemini_rewrite,0,You've selected the article: “Transform Your Body with the Latest Breakthrough in Weight Loss” 
 188,Context,none,none,none,none,-1,-1,gemini_rewrite,0,"Yes, I have."
 188,Response,none,none,none,none,-1,-1,gemini_rewrite,0,What is the main issue in the article?  
@@ -3803,6 +3859,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 188,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Would you like further assistance? 
 188,Context,none,none,none,none,-1,-1,gemini_rewrite,0,"No, I think I'm good."
 188,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Thank you for using TITAN!  
+189,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 189,Response,none,none,none,none,-1,-1,gemini_rewrite,0,You've selected the article: “Transform Your Body with the Latest Breakthrough in Weight Loss” 
 189,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Okay.
 189,Response,none,none,none,none,-1,-1,gemini_rewrite,0,What is the main issue in the article?  
@@ -3876,6 +3933,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 189,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Would you like further assistance? 
 189,Context,none,none,none,none,-1,-1,gemini_rewrite,-1,"No, thank you."
 189,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Thank you for using TITAN!  
+190,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hi! I want to discuss this article with you.
 190,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Very well! Can you tell me what sparked your interest?
 190,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I'm concerned about the potential for misinformation.
 190,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Having read the article what would you say that the main topic is?
@@ -3959,6 +4017,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 190,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Is there anything else you would like to discuss with me?
 190,Context,none,none,none,none,-1,-1,gemini_rewrite,0,"No, I think I'm good for now."
 190,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Very well! Glad I could be of help!
+191,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hi! I want to discuss this article with you.
 191,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Very well! Can you tell me what sparked your interest? 
 191,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I'm concerned about the potential for misinformation.
 191,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Having read the article what would you say that the main topic is?
@@ -4042,6 +4101,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 191,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Is there anything else you would like to discuss with me?
 191,Context,none,none,none,none,-1,-1,gemini_rewrite,-1,"No, I think I'm more confused now than when I started."
 191,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Very well! Glad I could be of help!  
+192,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 192,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Have you read the article “They knew : why didn’t the unvaccinated do more to warn us” 
 192,Context,none,none,none,none,-1,-1,gemini_rewrite,0,"Yes, I have."
 192,Response,none,none,none,none,-1,-1,gemini_rewrite,0,What do you think the article is about?
@@ -4111,6 +4171,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 192,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Are you satisfied with our conversation or would you like to know more about the article?
 192,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I am satisfied.
 192,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Thank you for using TITAN! 
+193,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 193,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Have you read the article “They knew : why didn’t the unvaccinated do more to warn us” 
 193,Context,none,none,none,none,-1,-1,gemini_rewrite,0,"Yes, I have."
 193,Response,none,none,none,none,-1,-1,gemini_rewrite,0,What do you think the article is about?
@@ -4180,6 +4241,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 193,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Are you satisfied with our conversation or would you like to know more about the article?
 193,Context,none,none,none,none,-1,-1,gemini_rewrite,-1,I'm done.
 193,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Thank you for using TITAN! 
+194,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 194,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""The government is spying on you through LED-lighting!!"". How can I help you?"
 194,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I want to determine if this article contains disinformation.
 194,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Very Well! Do you want to evaluate the source and content of the article?
@@ -4229,6 +4291,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 194,Response,none,none,none,none,-1,-1,gemini_rewrite,0,You did a great job!I look forward to talking with you again!
 194,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Thank you for your help!
 194,Response,none,none,none,none,-1,-1,gemini_rewrite,0,TITAN Socratic Dialogue Finished!
+195,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 195,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""The government is spying on you through LED-lighting!!"". How can I help you?"
 195,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I want to understand if this article contains disinformation.
 195,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Very Well! Do you want to evaluate the source and content of the article?
@@ -4278,6 +4341,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 195,Response,none,none,none,none,-1,-1,gemini_rewrite,0,You did a great job!I look forward to talking with you again!
 195,Context,none,none,none,none,-1,-1,gemini_rewrite,-1,I'm still confused.
 195,Response,none,none,none,none,-1,-1,gemini_rewrite,0,TITAN Socratic Dialogue Finished!
+196,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 196,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""Rapes, brawls, 'cultural' crimes: the criminal immigration that scares Italy"". What was it that specifically caught your attention?"
 196,Context,none,none,none,none,-1,-1,gemini_rewrite,0,The title seems very sensationalized and alarming.
 196,Response,none,none,none,none,-1,-1,gemini_rewrite,0,What does the article discuss?
@@ -4305,6 +4369,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 196,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Are there any consequences of considering uncritically the questions in the article?
 196,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Uncritically considering these questions could lead to increased prejudice and discrimination against immigrants.
 196,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Based on your own personal experience with the topic (if any), do you think the assumptions or claims presented in the article are consistent?"
+197,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 197,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""Rapes, brawls, 'cultural' crimes: the criminal immigration that scares Italy"". What was it that specifically caught your attention?"
 197,Context,none,none,none,none,-1,-1,gemini_rewrite,0,The title seems alarming.
 197,Response,none,none,none,none,-1,-1,gemini_rewrite,0,What does the article discuss?
@@ -4332,6 +4397,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 197,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Are there any consequences of considering uncritically the questions in the article?
 197,Context,none,none,none,none,-1,-1,gemini_rewrite,-1,It could lead to discrimination and prejudice.
 197,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Based on your own personal experience with the topic (if any), do you think the assumptions or claims presented in the article are consistent?"
+198,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 198,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""Medvedev: Neo-Nazism must be totally destroyed"". What drew your attention to this article in particular?"
 198,Context,none,none,none,none,-1,-1,gemini_rewrite,0,It sounds like propaganda.
 198,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Could you please inform me about the topic of the article?
@@ -4357,6 +4423,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 198,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Do you now believe that you have a clearer grasp of the attributes of this article, as well as its possible outcomes?"
 198,Context,none,none,none,none,-1,-1,gemini_rewrite,0,"Yes, I do."
 198,Response,none,none,none,none,-1,-1,gemini_rewrite,0,TITAN Socratic AI Coach Stopped!
+199,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 199,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""Medvedev: Neo-Nazism must be totally destroyed"". What drew your attention to this article in particular?"
 199,Context,none,none,none,none,-1,-1,gemini_rewrite,0,The title seemed controversial.
 199,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Could you please inform me about the topic of the article?
@@ -4382,6 +4449,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 199,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Do you now believe that you have a clearer grasp of the attributes of this article, as well as its possible outcomes?"
 199,Context,none,none,none,none,-1,-1,gemini_rewrite,-1,"Not really, I'm still confused."
 199,Response,none,none,none,none,-1,-1,gemini_rewrite,0,TITAN Socratic AI Coach Stopped!
+200,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 200,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""The government is spying on you through LED-lighting!!"". How may I assist you?"
 200,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I want to know if this article is disinformation.
 200,Response,none,none,none,none,-1,-1,gemini_rewrite,0,What was it that specifically caught your attention?
@@ -4409,6 +4477,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 200,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Are you able to detect any dubious assumptions or arguments put forth by the author?
 200,Context,none,none,none,none,-1,-1,gemini_rewrite,0,"Yes, the author assumes widespread government conspiracy without proof."
 200,Response,none,none,none,none,-1,-1,gemini_rewrite,0,TITAN Socratic AI Coach Stopped!
+201,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 201,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""The government is spying on you through LED-lighting!!"". How may I assist you?"
 201,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I want to determine if this article contains disinformation.
 201,Response,none,none,none,none,-1,-1,gemini_rewrite,0,What was it that specifically caught your attention?
@@ -4436,6 +4505,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 201,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Are you able to detect any dubious assumptions or arguments put forth by the author?
 201,Context,none,none,none,none,-1,-1,gemini_rewrite,-1,I'm still not sure what to think.
 201,Response,none,none,none,none,-1,-1,gemini_rewrite,0,TITAN Socratic AI Coach Stopped!
+202,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 202,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Have you read the article “Politicians appearing in entertainment television are also campaigning” 
 202,Context,none,none,none,none,-1,-1,gemini_rewrite,0,"Yes, I have."
 202,Response,none,none,none,none,-1,-1,gemini_rewrite,0,What do you think the article is about? 
@@ -4495,6 +4565,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 202,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Are you satisfied with our conversation or would you like to know more about the article?
 202,Context,none,none,none,none,-1,-1,gemini_rewrite,0,"I'm satisfied, thank you!"
 202,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Thank you for using TITAN! 
+203,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 203,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Have you read the article “Politicians appearing in entertainment television are also campaigning”
 203,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Yes.
 203,Response,none,none,none,none,-1,-1,gemini_rewrite,0,What do you think the article is about?
@@ -4554,6 +4625,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 203,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Are you satisfied with our conversation or would you like to know more about the article?
 203,Context,none,none,none,none,-1,-1,gemini_rewrite,-1,I'm more confused than before.
 203,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Thank you for using TITAN!
+204,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 204,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""What Liberal Media Did Not Tell You: Screaming Green Teen Greta Thunberg Linked to Antifa Terrorists - Recorded Song for Antifa-Supporting Org"". How may I be of assistance?"
 204,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I want to evaluate if this article contains disinformation.
 204,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Very Well! Do you want to evaluate the source and content of the article?
@@ -4583,6 +4655,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 204,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Often, personal attacks are used in campaigns that aim at smearing their opponents who are important public figures or groups (for example, politicians, NGOs, scientists, activists, investigative journalists, etc). Can you tell me if the target of these attacks is well-known?"
 204,Context,none,none,none,none,-1,-1,gemini_rewrite,0,"Yes, the target is a well-known activist."
 204,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Based on the answers you have provided, the article seems to contain disinformation. It lacks a credible author, editorial oversight, and relies on personal attacks rather than factual information. Therefore, it is highly unreliable."
+205,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 205,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""What Liberal Media Did Not Tell You: Screaming Green Teen Greta Thunberg Linked to Antifa Terrorists - Recorded Song for Antifa-Supporting Org"". How may I be of assistance?"
 205,Context,none,none,none,none,-1,-1,gemini_rewrite,0,How can you help me determine if this article contains disinformation?
 205,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Very Well! Do you want to evaluate the source and content of the article?
@@ -4610,6 +4683,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 205,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Does the article attack the opponent's moral character, motives or cause?"
 205,Context,none,none,none,none,-1,-1,gemini_rewrite,-1,Possibly.
 205,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Often, personal attacks are used in campaigns that aim at smearing their opponents who are important public figures or groups (for example, politicians, NGOs, scientists, activists, investigative journalists, etc). Can you tell me if the target of these attacks is well-known?"
+206,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 206,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""They knew : why didn't the unvaccinated do more to warn us"". What prompted you to read this article?"
 206,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I'm concerned about the tone and potential for misinformation.
 206,Response,none,none,none,none,-1,-1,gemini_rewrite,0,What is the topic or content of the article?
@@ -4647,6 +4721,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 206,Response,none,none,none,none,-1,-1,gemini_rewrite,0,What proof is presented to back up this claim? Is the author sufficient in supplying us with relevant information?
 206,Context,none,none,none,none,-1,-1,gemini_rewrite,0,There's no proof; it's just an assertion.
 206,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Do you believe that any of these claims might be identified as the result of hate speech as we previously discussed?
+207,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 207,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""They knew : why didn't the unvaccinated do more to warn us"". What prompted you to read this article?"
 207,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I'm curious about the perspective it offers.
 207,Response,none,none,none,none,-1,-1,gemini_rewrite,0,What is the topic or content of the article?
@@ -4686,6 +4761,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 207,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Do you believe that any of these claims might be identified as the result of hate speech as we previously discussed?
 207,Context,none,none,none,none,-1,-1,gemini_rewrite,-1,I'm still not sure.
 207,Response,none,none,none,none,-1,-1,gemini_rewrite,0,TITAN Socratic AI Coach Stopped!
+208,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 208,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Which article do you want help with?
 208,Context,none,none,none,none,-1,-1,gemini_rewrite,0,SkinnySecretsExposed.com.
 208,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Interesting, what is the main issue discussed in the article?"
@@ -4729,6 +4805,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 208,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Would you like further assistance?
 208,Context,none,none,none,none,-1,-1,gemini_rewrite,0,"No, thank you. I understand the article likely contains disinformation."
 208,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Thank you for using TITAN!
+209,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 209,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Which article do you want help with?
 209,Context,none,none,none,none,-1,-1,gemini_rewrite,0,"The article with the title ""Transform Your Body with the Latest Breakthrough in Weight Loss – SkinnySecretsExposed.com""."
 209,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Interesting, what is the main issue discussed in the article?"
@@ -4772,6 +4849,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 209,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Would you like further assistance?
 209,Context,none,none,none,none,-1,-1,gemini_rewrite,-1,"No thanks, I'm more confused than before."
 209,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Thank you for using TITAN!
+210,Context,none,none,none,none,-1,-1,gemini_rewrite,0,"Hi, I want to talk about this article."
 210,Response,none,none,none,none,-1,-1,gemini_rewrite,0,That’s great! What is the subject exactly? 
 210,Context,none,none,none,none,-1,-1,gemini_rewrite,0,The article is about an alleged rape case involving a Pakistani immigrant and a local girl.
 210,Response,none,none,none,none,-1,-1,gemini_rewrite,0,What would you say that the main claim of the article is? Does the author try to make a point?
@@ -4851,6 +4929,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 210,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Is there anything more you would like to discuss with me?
 210,Context,none,none,none,none,-1,-1,gemini_rewrite,0,"No, thank you."
 210,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Thank you for using TITAN! 
+211,Context,none,none,none,none,-1,-1,gemini_rewrite,0,"Hi, I want to talk about this article."
 211,Response,none,none,none,none,-1,-1,gemini_rewrite,0,That’s great! What is the subject exactly? 
 211,Context,none,none,none,none,-1,-1,gemini_rewrite,0,It seems to be about a rape case.
 211,Response,none,none,none,none,-1,-1,gemini_rewrite,0,What would you say that the main claim of the article is? Does the author try to make a point?
@@ -4930,6 +5009,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 211,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Is there anything more you would like to discuss with me?
 211,Context,none,none,none,none,-1,-1,gemini_rewrite,-1,"No, thank you."
 211,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Thank you for using TITAN! 
+212,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 212,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""Ukrainian prisoner shares about British military fighting on the side of the AFU."". What piqued your interest in this article?"
 212,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I'm curious about the validity of claims regarding foreign fighters in Ukraine.
 212,Response,none,none,none,none,-1,-1,gemini_rewrite,0,What does the article discuss?
@@ -4969,6 +5049,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 212,Response,none,none,none,none,-1,-1,gemini_rewrite,0,How do the claims relate to the main argument presented by the author?
 212,Context,none,none,none,none,-1,-1,gemini_rewrite,0,The claims reinforce the argument that foreign involvement is escalating the conflict and is negative.
 212,Response,none,none,none,none,-1,-1,gemini_rewrite,0,TITAN Socratic AI Coach Stopped!
+213,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 213,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""Ukrainian prisoner shares about British military fighting on the side of the AFU."". What piqued your interest in this article?"
 213,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I wanted to know if it's true.
 213,Response,none,none,none,none,-1,-1,gemini_rewrite,0,What does the article discuss?
@@ -5008,6 +5089,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 213,Response,none,none,none,none,-1,-1,gemini_rewrite,0,How do the claims relate to the main argument presented by the author?
 213,Context,none,none,none,none,-1,-1,gemini_rewrite,-1,I'm completely lost.
 213,Response,none,none,none,none,-1,-1,gemini_rewrite,0,TITAN Socratic AI Coach Stopped!
+214,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 214,Response,none,none,none,none,-1,-1,gemini_rewrite,0,You've read the article “Transform Your Body with the Latest Breakthrough in Weight Loss”. Is that correct?
 214,Context,none,none,none,none,-1,-1,gemini_rewrite,0,"Yes, I have."
 214,Response,none,none,none,none,-1,-1,gemini_rewrite,0,What is the article about?
@@ -5043,6 +5125,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 214,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Would you like further assistance?
 214,Context,none,none,none,none,-1,-1,gemini_rewrite,0,"No, thank you. I think I can conclude this article likely contains disinformation."
 214,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Thank you for using TITAN!
+215,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 215,Response,none,none,none,none,-1,-1,gemini_rewrite,0,You've read the article “Transform Your Body with the Latest Breakthrough in Weight Loss”. Is that correct?
 215,Context,none,none,none,none,-1,-1,gemini_rewrite,0,"Yes, I have."
 215,Response,none,none,none,none,-1,-1,gemini_rewrite,0,What is the article about?
@@ -5078,6 +5161,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 215,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Would you like further assistance?
 215,Context,none,none,none,none,-1,-1,gemini_rewrite,-1,"No, I am not sure anymore."
 215,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Thank you for using TITAN!
+216,Context,none,none,none,none,-1,-1,gemini_rewrite,0,"Hi, I want to talk about this article."
 216,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Great! And what do you want to discuss exactly?  
 216,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I want to find out if this article contains disinformation.
 216,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Very well. Can you tell me in a few words the topic of the article then?
@@ -5137,6 +5221,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 216,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Is there anything more you would like to discuss with me?
 216,Context,none,none,none,none,-1,-1,gemini_rewrite,0,"No, that's all for now."
 216,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Thank you for using TITAN!  
+217,Context,none,none,none,none,-1,-1,gemini_rewrite,0,"Hi, I want to talk about this article."
 217,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Great! And what do you want to discuss exactly?  
 217,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I want to know if this article contains disinformation.
 217,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Very well. Can you tell me in a few words the topic of the article then?
@@ -5196,6 +5281,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 217,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Is there anything more you would like to discuss with me?
 217,Context,none,none,none,none,-1,-1,gemini_rewrite,-1,"No, I think I'm more confused than when I started."
 217,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Thank you for using TITAN!  
+218,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 218,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""Bologna, 23-year-old girl in alcoholic coma. Pakistani immigrant rapes her in hospital"". What was it that aroused your curiosity with this article?"
 218,Context,none,none,none,none,-1,-1,gemini_rewrite,0,The title seems sensationalized and potentially biased.
 218,Response,none,none,none,none,-1,-1,gemini_rewrite,0,What does the article discuss?
@@ -5213,6 +5299,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 218,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"After our discussion, how do you feel about the article?"
 218,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I believe the article likely contains disinformation or at least presents a highly biased and potentially inaccurate account of the event.
 218,Response,none,none,none,none,-1,-1,gemini_rewrite,0,TITAN Socratic AI Coach Stopped!
+219,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 219,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""Bologna, 23-year-old girl in alcoholic coma. Pakistani immigrant rapes her in hospital"". What was it that aroused your curiosity with this article?"
 219,Context,none,none,none,none,-1,-1,gemini_rewrite,0,It sounds like a terrible crime.
 219,Response,none,none,none,none,-1,-1,gemini_rewrite,0,What does the article discuss?
@@ -5230,6 +5317,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 219,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"After our discussion, how do you feel about the article?"
 219,Context,none,none,none,none,-1,-1,gemini_rewrite,-1,I'm still confused.
 219,Response,none,none,none,none,-1,-1,gemini_rewrite,0,TITAN Socratic AI Coach Stopped!
+220,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 220,Response,none,none,none,none,-1,-1,gemini_rewrite,0,You've selected the article: “Transform Your Body with the Latest Breakthrough in Weight Loss” 
 220,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Okay.
 220,Response,none,none,none,none,-1,-1,gemini_rewrite,0,What is the main issue in the article?  
@@ -5309,6 +5397,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 220,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Would you like further assistance?
 220,Context,none,none,none,none,-1,-1,gemini_rewrite,0,"No, thank you."
 220,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Thank you for using TITAN!
+221,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 221,Response,none,none,none,none,-1,-1,gemini_rewrite,0,You've selected the article: “Transform Your Body with the Latest Breakthrough in Weight Loss” 
 221,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Okay.
 221,Response,none,none,none,none,-1,-1,gemini_rewrite,0,What is the main issue in the article?  
@@ -5388,6 +5477,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 221,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Would you like further assistance?
 221,Context,none,none,none,none,-1,-1,gemini_rewrite,-1,"No, thanks."
 221,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Thank you for using TITAN!
+222,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 222,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""Politicians appearing in entertainment television are also campaigning"". What inspired you to select this specific article initially?"
 222,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I'm trying to understand if this article is potentially spreading disinformation.
 222,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Could you please inform me about the topic of the article?
@@ -5449,6 +5539,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 222,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Is there any other topic you would like to cover with me?
 222,Context,none,none,none,none,-1,-1,gemini_rewrite,0,"Not at this time, thank you!"
 222,Response,none,none,none,none,-1,-1,gemini_rewrite,0,TITAN Socratic Dialogue Finished!
+223,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 223,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""Politicians appearing in entertainment television are also campaigning"". What inspired you to select this specific article initially?"
 223,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I saw it shared on social media and it seemed relevant.
 223,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Could you please inform me about the topic of the article?
@@ -5510,6 +5601,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 223,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Is there any other topic you would like to cover with me?
 223,Context,none,none,none,none,-1,-1,gemini_rewrite,-1,No.
 223,Response,none,none,none,none,-1,-1,gemini_rewrite,0,TITAN Socratic Dialogue Finished!
+224,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 224,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""Medvedev: Neo-Nazism must be totally destroyed"". Can you tell me what sparked your interest?"
 224,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I'm concerned about the potential for biased information in this article.
 224,Response,none,none,none,none,-1,-1,gemini_rewrite,0,What is the topic of the article?
@@ -5543,6 +5635,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 224,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Is there any other topic you would like to go over with me?
 224,Context,none,none,none,none,-1,-1,gemini_rewrite,0,"No, thank you."
 224,Response,none,none,none,none,-1,-1,gemini_rewrite,0,TITAN Socratic Dialogue Finished!
+225,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 225,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""Medvedev: Neo-Nazism must be totally destroyed"". Can you tell me what sparked your interest?"
 225,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I'm trying to understand the context of this statement.
 225,Response,none,none,none,none,-1,-1,gemini_rewrite,0,What is the topic of the article?
@@ -5576,6 +5669,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 225,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Is there any other topic you would like to go over with me?
 225,Context,none,none,none,none,-1,-1,gemini_rewrite,-1,"No, thank you."
 225,Response,none,none,none,none,-1,-1,gemini_rewrite,0,TITAN Socratic Dialogue Finished!
+226,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 226,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""The government is spying on you through LED-lighting!!"". What is it that sparked your interest with this article?"
 226,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I wanted to understand if this claim could be true or if it's disinformation.
 226,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Having read the article what would you say that the main topic is?
@@ -5609,6 +5703,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 226,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Is there anything more you would like to discuss with me?
 226,Context,none,none,none,none,-1,-1,gemini_rewrite,0,"No, I think that's all."
 226,Response,none,none,none,none,-1,-1,gemini_rewrite,0,TITAN Socratic Dialogue Finished!
+227,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 227,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""The government is spying on you through LED-lighting!!"". What is it that sparked your interest with this article?"
 227,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I'm curious if this is true.
 227,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Having read the article what would you say that the main topic is?
@@ -5642,6 +5737,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 227,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Is there anything more you would like to discuss with me?
 227,Context,none,none,none,none,-1,-1,gemini_rewrite,-1,"No, I think I'm done."
 227,Response,none,none,none,none,-1,-1,gemini_rewrite,0,TITAN Socratic Dialogue Finished!
+228,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 228,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""The Cholesterol Conspiracy: Are We Being Deceived by Big Pharma and the Food Industry? - LowCholesterolLies.com"". What drew your interest to this article?"
 228,Context,none,none,none,none,-1,-1,gemini_rewrite,0,The title seemed sensational and I wanted to see if it was credible.
 228,Response,none,none,none,none,-1,-1,gemini_rewrite,0,What does the article discuss?
@@ -5663,6 +5759,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 228,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Do you believe that the assumptions/claims of the article are consistent with your own personal experience on the subject (if any)?
 228,Context,none,none,none,none,-1,-1,gemini_rewrite,0,"No, my doctor has always emphasized the importance of managing cholesterol."
 228,Response,none,none,none,none,-1,-1,gemini_rewrite,0,TITAN Socratic AI Coach Stopped!
+229,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 229,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""The Cholesterol Conspiracy: Are We Being Deceived by Big Pharma and the Food Industry? - LowCholesterolLies.com"". What drew your interest to this article?"
 229,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I am concerned about the validity of the health claims made online.
 229,Response,none,none,none,none,-1,-1,gemini_rewrite,0,What does the article discuss?
@@ -5684,6 +5781,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 229,Response,none,none,none,none,-1,-1,gemini_rewrite,0,Do you believe that the assumptions/claims of the article are consistent with your own personal experience on the subject (if any)?
 229,Context,none,none,none,none,-1,-1,gemini_rewrite,-1,"Not really, I'm just confused now."
 229,Response,none,none,none,none,-1,-1,gemini_rewrite,0,TITAN Socratic AI Coach Stopped!
+230,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 230,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""The Cholesterol Conspiracy: Are We Being Deceived by Big Pharma and the Food Industry? - LowCholesterolLies.com"". What was it that particularly grabbed your interest?"
 230,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I'm curious about the claims that cholesterol is not as bad as we're told.
 230,Response,none,none,none,none,-1,-1,gemini_rewrite,0,What is the topic or content of the article?
@@ -5745,6 +5843,7 @@ id,name,category,article,cta,signal,step,new_id,type,reward,line
 230,Response,none,none,none,none,-1,-1,gemini_rewrite,0,What is the reason behind the usage of emotionally charged language in this article?
 230,Context,none,none,none,none,-1,-1,gemini_rewrite,0,To manipulate the reader's emotions and make them more receptive to the author's claims.
 230,Response,none,none,none,none,-1,-1,gemini_rewrite,0,TITAN Socratic AI Coach Stopped!
+231,Context,none,none,none,none,-1,-1,gemini_rewrite,0,Hello!
 231,Response,none,none,none,none,-1,-1,gemini_rewrite,0,"Hello! Let me introduce myself, my name is TITAN, your AI Intelligent Coach against Disinformation. I see you have selected the article with title ""The Cholesterol Conspiracy: Are We Being Deceived by Big Pharma and the Food Industry? - LowCholesterolLies.com"". What was it that particularly grabbed your interest?"
 231,Context,none,none,none,none,-1,-1,gemini_rewrite,0,I am interested in the claims about cholesterol.
 231,Response,none,none,none,none,-1,-1,gemini_rewrite,0,What is the topic or content of the article?
